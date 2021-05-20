@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: DL blog Albert
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+description: Blog about DL issues using Jupyter Notebooks.
 github_username: albertlleo
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "DL-blog"
